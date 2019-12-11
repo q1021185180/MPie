@@ -1,0 +1,22 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">  
+
+<head>  
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />  
+
+<title>竖线画法</title>  
+<link href="../css/demo.css" rel="stylesheet" type="text/css" />  
+
+</head>  
+
+<body>  
+    <div class="maindiv">  
+        <div class="leftdiv"><br><br><br><br><br><br></div>  
+        <div class="centerdiv"></div>  
+        <div class="rightdiv"><br><br><br><br><br><br><br></div>  
+    </div>  
+	
+</body>  
+
+</html>
